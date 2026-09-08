@@ -1,4 +1,4 @@
-![Diagrama de flujo de preTools](preTools_flujo_pipeline.png)
+![Diagrama de flujo de preTools](logo_preTools.png)
 
 
 preTools
