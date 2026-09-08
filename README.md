@@ -1,3 +1,6 @@
+![Diagrama de flujo de preTools](preTools_flujo_pipeline.png)
+
+
 preTools
 ========
 
