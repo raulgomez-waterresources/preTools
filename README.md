@@ -7,7 +7,7 @@ preTools
 Completado de series de precipitación diaria mediante regresión lineal
 simple entre estaciones meteorológicas, en R.
 
-![Diagrama de flujo de preTools](preTools_flujo_pipeline.png)
+![Diagrama de flujo de preTools](docs/preTools_flujo_pipeline.png)
 ----------------------------------------------------------------------
 ¿QUÉ PROBLEMA RESUELVE?
 ----------------------------------------------------------------------
