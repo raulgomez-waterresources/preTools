@@ -104,10 +104,6 @@ ESTRUCTURA DEL REPOSITORIO
     ├── app.R                              Interfaz Shiny
     └── preTools.R                         Motor de cálculo (independiente de Shiny)
 
-(Este es el orden real en el que GitHub los mostrará: primero las
-carpetas por orden alfabético, después los archivos, también por
-orden alfabético pero distinguiendo mayúsculas de minúsculas — las
-mayúsculas se listan antes que las minúsculas.)
 
 `preTools.R` puede usarse de forma completamente independiente,
 directamente desde R/RStudio, sin necesidad de Shiny ni de ninguna
